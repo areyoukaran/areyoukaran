@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/areyoukaran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-HANDLE" target="_blank">
+  <a href="https://leetcode.com/areyoukaran" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:kashyapkaran483@gmail.com" target="_blank">
@@ -20,11 +20,11 @@
 ---
 
 - 🎓 B.Tech in Computer Science and Engineering @ **K.R. Mangalam University** (2023 – Present)
+- 🧠 Currently working as an **LLM Post-Training Intern @ Ethara**
 - 💻 Full-stack web developer with hands-on internship experience at **Unified Mentor Pvt. Ltd.** and **SkillCraft Technology**
 - 🤖 Interested in **Machine Learning**, **NLP**, and building AI-powered tools
 - 🛠️ Currently building projects around REST APIs, dashboards, and ML-driven recommendation systems
 - 📍 Based in Gurugram, Haryana
-- ⚡ Fun fact: I also play badminton, chess, and love traveling when I'm not coding
 
 ---
 
@@ -45,6 +45,9 @@ A lightweight HRMS web app with employee record management, attendance tracking,
 ---
 
 ## 💼 Experience
+
+**LLM Post-Training Intern** — Ethara *(Current)*
+Working on post-training workflows for large language models.
 
 **Web Developer Intern** — Unified Mentor Pvt. Ltd. *(Jun 2025 – Sep 2025)*
 Built 6 web projects (4 basic, 2 advanced) covering both front-end and back-end development.
