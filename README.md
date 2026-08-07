@@ -20,9 +20,9 @@
 ---
 
 - 🎓 B.Tech in Computer Science and Engineering @ **K.R. Mangalam University** (2023 – Present)
-- 🧠 Currently working as an **LLM Post-Training Intern @ Ethara AI** (Feb 2026 – Present)
-- 💻 AI Backend Engineer with hands-on experience building REST APIs, scalable backend systems, and ML-powered applications using Python, FastAPI, SQL, and modern AI frameworks
-- 🤖 Interested in **Machine Learning**, **NLP**, and building AI-powered tools
+- 💻 Building expertise in **AI Backend Engineering** with Python, FastAPI, REST APIs, SQL, and scalable backend systems
+- 🤖 Focused on **LLMs, RAG, AI Agents, Machine Learning, and NLP**
+- ⚙️ Exploring **Cloud, DevOps, and AI Infrastructure** for production-grade AI applications
 - 📍 Based in Gurugram, Haryana
 
 ---
