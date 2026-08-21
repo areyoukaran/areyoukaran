@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Karan Kashyap</h1>
+<h1 align="center">Karan Kashyap</h1> 
 <h3 align="center">Backend Engineer | AI & LLMs</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/areyoukaran" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
   <a href="https://leetcode.com/areyoukaran" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:kashyapkaran483@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-kashyapkaran483%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -27,37 +27,21 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎵 [Music Recommendation System](#)
-`Python` `JavaScript` `scikit-learn` `TensorFlow` `Streamlit` — Aug 2024
-Built a music recommendation system using ML on a 1M+ song Kaggle dataset — preprocessed audio metadata, engineered features in Jupyter, and shipped an interactive Streamlit app for real-time personalized recommendations powered by scikit-learn and TensorFlow inference pipelines.
-
-### 🧑‍💼 [Human Resource Management System](#)
-`HTML` `CSS` `JavaScript` `Flask` `SQLAlchemy` `SQLite` — Feb 2026
-An HRMS web app for employee and attendance management, with CRUD operations, role-based access, RESTful APIs built using Flask and SQLAlchemy with input validation, and a normalized SQLite schema for employee/attendance records.
-
-### 🤖 [AI Chatbot for CareerWill](#)
-`Botpress` `Knowledge Base` `NLP` `ML`
-A chatbot that answers student queries about courses and schedules, offers tailored study recommendations, and helps students navigate the CareerWill platform.
-
----
-
 ## 💼 Experience
 
-**LLM Post-Training Intern** — Ethara AI *(Feb 2026 – Aug 2026)*
+**LLM Post-Training Intern** - Ethara AI *(Feb 2026 – Aug 2026)*
 - Contributed to 7+ LLM projects using SFT, RLHF, and RLVR to improve alignment and reasoning
 - Engineered adversarial prompts and evaluation datasets to uncover model failures and enhance reliability
 - Developed and evaluated agentic AI workflows using OpenClaw and modern LLM frameworks
 - Evaluated multimodal vision-language models through image comparison and quality assessment tasks
 
-**Web Developer Intern** — Unified Mentor Pvt. Ltd. *(Jun 2025 – Sep 2025)*
+**Web Developer Intern** - Unified Mentor Pvt. Ltd. *(Jun 2025 – Sep 2025)*
 - Contributed to multiple full-stack web applications during a 3-month internship at Unified Mentor.
 - Built responsive web applications using HTML, CSS, JavaScript, Bootstrap, Python, and Flask.
 - Developed RESTful APIs, implemented CRUD functionality, and managed data using MySQL.
 - Collaborated using Git and GitHub while debugging, testing, and optimizing application performance.
 
-**Web Developer Intern** — SkillCraft Technology *(Jun 2025 – Jul 2025)*
+**Web Developer Intern** - SkillCraft Technology *(Jun 2025 – Jul 2025)*
 - Built responsive web applications during a 1-month internship at SkillCraft Technology.
 - Designed interactive user interfaces using HTML, CSS, JavaScript, and Bootstrap.
 - Implemented dynamic features and integrated back-end functionality using Python and Flask.
@@ -123,3 +107,4 @@ A chatbot that answers student queries about courses and schedules, offers tailo
 - Gen AI Academy - Google (2025)
 - Unified Mentor - Certificate of Completion
 - SkillCraft Technology - Certificate of Completion
+- Ethara.AI - Certificate of Completion
