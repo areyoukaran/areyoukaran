@@ -53,18 +53,6 @@ SQLAlchemy · Pydantic · AsyncIO · JWT · OAuth 2.0 · pgvector · LangGraph �
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-reduced-motion: reduce)"
-    srcset="https://raw.githubusercontent.com/areyoukaran/areyoukaran/comet-graph/comet-reduced.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/areyoukaran/areyoukaran/comet-graph/comet.svg"
-    alt="GitHub contribution activity"
-    width="94%"
-  />
-</picture>
-
 <br/><br/>
 
 <picture>
