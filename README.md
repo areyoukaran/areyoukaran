@@ -2,10 +2,9 @@
 <h3 align="center">Backend Engineer | AI & LLMs</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kashyapkaran483&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
+  <a href="https://karankashyap.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14161A?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/areyoukaran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> 
@@ -19,33 +18,26 @@
 
 ---
 
-- 🎓 B.Tech in Computer Science and Engineering @ **K.R. Mangalam University** (2023 – Present)
-- 💻 Building expertise in **AI Backend Engineering** with Python, FastAPI, REST APIs, SQL, and scalable backend systems
-- 🤖 Focused on **LLMs, RAG, AI Agents, Machine Learning, and NLP**
-- ⚙️ Exploring **Cloud, DevOps, and AI Infrastructure** for production-grade AI applications
+- 🎓 B.Tech in Computer Science and Engineering @ **K.R. Mangalam University** (2023 – Present) — CGPA 8.22
+- 💻 Backend Engineer building **REST APIs and ML-powered applications** with Python, FastAPI, and SQL
+- 🤖 Hands-on experience in **LLM evaluation, adversarial testing, and post-training workflows**
 - 📍 Based in Gurugram, Haryana
 
 ---
 
 ## 💼 Experience
 
-**LLM Post-Training Intern** - Ethara AI *(Feb 2026 – Aug 2026)*
-- Contributed to 7+ LLM projects using SFT, RLHF, and RLVR to improve alignment and reasoning
-- Engineered adversarial prompts and evaluation datasets to uncover model failures and enhance reliability
-- Developed and evaluated agentic AI workflows using OpenClaw and modern LLM frameworks
-- Evaluated multimodal vision-language models through image comparison and quality assessment tasks
+**LLM Post Training Intern** - Ethara AI *(Feb 2026 – Aug 2026)*
+- Evaluated 70+ multi-turn LLM conversations across reasoning, alignment, and response quality
+- Built 20+ multimodal adversarial test suites across image, audio, documents, and structured data, targeting 40% induced failure
+- Analyzed 50+ model outputs to identify failure modes and quality degradation patterns
+- Led QA for a 30-tasker team, reviewing daily outputs for correctness, consistency, and evaluation standards
 
 **Web Developer Intern** - Unified Mentor Pvt. Ltd. *(Jun 2025 – Sep 2025)*
-- Contributed to multiple full-stack web applications during a 3-month internship at Unified Mentor.
-- Built responsive web applications using HTML, CSS, JavaScript, Bootstrap, Python, and Flask.
-- Developed RESTful APIs, implemented CRUD functionality, and managed data using MySQL.
-- Collaborated using Git and GitHub while debugging, testing, and optimizing application performance.
-
-**Web Developer Intern** - SkillCraft Technology *(Jun 2025 – Jul 2025)*
-- Built responsive web applications during a 1-month internship at SkillCraft Technology.
-- Designed interactive user interfaces using HTML, CSS, JavaScript, and Bootstrap.
-- Implemented dynamic features and integrated back-end functionality using Python and Flask.
-- Tested, debugged, and optimized applications while collaborating through Git and GitHub.
+- Built 6 full-stack applications, delivering 25+ core features across appointment booking, catering, and order-management platforms
+- Designed normalized MySQL schemas with 8+ tables and 15+ REST APIs, implementing RBAC, CRUD, scheduling, and conflict resolution
+- Developed responsive frontends with HTML, CSS, and JavaScript, integrated with Flask/Python backends and database workflows
+- Debugged and tested 6 applications, resolving 30+ functional issues and managing version control through Git/GitHub
 
 ---
 
@@ -53,58 +45,60 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=auth0&logoColor=white)
 
 ### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-*Also: LangGraph, Google ADK, FAISS, RAG, MCP*
+*Also: RAG, LLM Evaluation*
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-*Also: Qdrant*
+*Also: pgvector*
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+*Also: CI/CD*
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+*Also: pytest*
+
+---
+
+## 🚀 Selected Work
+
+**[Music Recommendation System](https://karankashyap.me/resume.html)** — `Python` `scikit-learn` `TensorFlow` `Streamlit`
+Built on a 1M+ song Kaggle dataset with real-time personalized recommendations via an interactive Streamlit app.
+
+**[Human Resource Management System](https://karankashyap.me/resume.html)** — `Flask` `SQLAlchemy` `SQLite` `REST`
+Employee and attendance management system with a normalized database schema, CRUD operations, and RBAC.
 
 ---
 
 ## 📜 Certifications
-- Bootcamp on Big Data & Data Science - C-DAC Noida (2024)
 - Gen AI Academy - Google (2025)
-- Unified Mentor - Certificate of Completion
-- SkillCraft Technology - Certificate of Completion
-- Ethara.AI - Certificate of Completion
+- Bootcamp on Big Data & Data Science - C-DAC Noida (2024)
+
+---
+
+<p align="center">
+  <i>Full resume and work → <a href="https://karankashyap.me">karankashyap.me</a></i>
+</p>
