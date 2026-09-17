@@ -1,14 +1,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20systems%20at%20the%20intersection%20of%20backend%20%26%20AI&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460"
+    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20backend%20systems%20that%20power%20AI%20and%20the%20web&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&hideAvatar=true&v=2"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20systems%20at%20the%20intersection%20of%20backend%20%26%20AI&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460"
+    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20backend%20systems%20that%20power%20AI%20and%20the%20web&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&hideAvatar=true&v=2"
   />
   <img
-    src="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20systems%20at%20the%20intersection%20of%20backend%20%26%20AI&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460"
+    src="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20backend%20systems%20that%20power%20AI%20and%20the%20web&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&hideAvatar=true&v=2"
     width="100%"
     alt="Karan Kashyap"
   />
@@ -46,6 +46,8 @@
   width="94%"
   alt="Tech stack"
 />
+
+<br/>
 
 <sub>
 SQLAlchemy · Pydantic · AsyncIO · JWT · OAuth 2.0 · pgvector · LangGraph · RAG · Hugging Face · LLM Evaluation · GitHub Actions · pytest
