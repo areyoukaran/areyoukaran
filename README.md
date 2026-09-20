@@ -1,14 +1,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20backend%20systems%20that%20power%20AI%20and%20the%20web&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&v=3"
+    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20&tagline=Building%20backend%20systems%20that%20power%20AI&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&v=3"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20backend%20systems%20that%20power%20AI%20and%20the%20web&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&v=3"
+    srcset="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20&tagline=Building%20backend%20systems%20that%20power%20AI&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&v=3"
   />
   <img
-    src="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20%7C%20AI%20%2F%20LLM%20Systems&tagline=Building%20backend%20systems%20that%20power%20AI%20and%20the%20web&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&v=3"
+    src="https://terminal-identity-opal.vercel.app/api?name=Karan%20Kashyap&username=areyoukaran&role=Backend%20Engineer%20&tagline=Building%20backend%20systems%20that%20power%20AI&theme=obsidian/graphite&pattern=grid&motion=scan&width=1200&height=460&v=3"
     width="100%"
     alt="Karan Kashyap"
   />
