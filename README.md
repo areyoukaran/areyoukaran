@@ -51,18 +51,6 @@ SQLAlchemy · Pydantic · AsyncIO · JWT · OAuth 2.0 · pgvector · LangGraph �
 
 <br/><br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/cadence.dark.svg"
-  />
-  <img
-    src="./assets/cadence.light.svg"
-    width="94%"
-    alt="GitHub commit cadence"
-  />
-</picture>
-
 <br/><br/>
 
 <picture>
